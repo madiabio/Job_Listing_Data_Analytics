@@ -19,12 +19,10 @@ The final major subject prominent on the LDA visualisation is knowledge in IT in
 
 We believe that as Mathew continues his journey through his Computer Science Degree he will get a further understanding on what he is passionate for. For now, we recommend him learning some broad knowledge on the topics described above and going deeper into any topics and skills he is interested in. Computer science is an ever-evolving sector, it is important to know that continual growth and learning is needed in order to not get left behind. This is why by far the most important part of Computer Science is to be passionate of this sector and its subjects contained.
 
-<<<<<<< HEAD
 ## 2) Talent Recruitment Agency 
 
 =======
 ## 2) Job Recommendation System Design Proposal
->>>>>>> e47ec95 (Initial commit)
 ### Scenario
 A recruitment agency wants to build a system that recommends the top 10 jobs to a candidate based upon their profile. They are requesting a solution proposal.
 
